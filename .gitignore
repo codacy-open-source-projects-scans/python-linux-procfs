@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.asc
+*.tar.xz
+procfs/__pycache__/
+tags
